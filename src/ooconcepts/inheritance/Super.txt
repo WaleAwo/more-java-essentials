@@ -1,0 +1,8 @@
+Super
+- Relies on inheritance.
+- The "super" keyword is used to access the parent class implementation of methods and constructors.
+- The "super" keyword is used from the child class.
+
+2 ways to use the super keyword
+- call methods from the super class which has been overridden in the child class.
+- call the parent class constructor. Removes duplication.

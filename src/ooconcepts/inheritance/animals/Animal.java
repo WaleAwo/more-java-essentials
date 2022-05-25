@@ -1,8 +1,14 @@
 package ooconcepts.inheritance.animals;
 
 public class Animal {
-    private String name;
-    private String colour;
+    String name;
+    String colour;
+
+    //constructor
+    public Animal(String name, String colour){
+        this.name = name;
+        this.colour = colour;
+    }
 
     public String getName() {
         return name;
