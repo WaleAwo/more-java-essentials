@@ -1,0 +1,5 @@
+Final
+- You can have a final variable, method and class.
+- class = you can't inherit a final class
+- method = parent class can't be overridden
+- variable = a variable (constant) that can't be changed and is only instantiated/declared once

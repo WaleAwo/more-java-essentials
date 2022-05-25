@@ -1,0 +1,4 @@
+Polymorphism
+- Polymorphism allows you to do the same task in different ways
+- Overriding - when a child class creates it's own implementation of a parent method
+- Overloading - 2 methods with the same name but different parameters.

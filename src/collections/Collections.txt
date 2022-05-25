@@ -1,0 +1,29 @@
+Collections
+- contain a collection of related items
+- flexible
+
+3 basic collections
+- List
+- Sets
+- Maps
+
+Lists
+- ordered
+- can contain duplicates
+- a list isn't a class, it's an interface
+- ArrayList is a class that implements the List interface
+- [] donates an empty list
+
+Sets
+- unordered
+- cannot contain duplicates
+- Hashset is a class that implements the Set interface - no order
+- Treeset is a class that implements the Set interface - order (natural order depending on data type)
+
+Maps
+- Key/Value pairs
+- unordered
+- cannot have duplicate keys but duplicate values is okay
+- HashMap is a class that implements the Map interface
+- LinkedHashMap allows for ordering
+- TreeMap allows for natural ordering depending on the data type

@@ -1,0 +1,7 @@
+exceptions
+- An unwanted event that interrupts a programs flow
+- Handling unforeseen or known errors
+- exceptions print out stack traces which is just information about an error
+- Use Try/Catch block to handle exceptions
+- Try code, throws exception, catch exception
+- Finally block will always run code no matter what

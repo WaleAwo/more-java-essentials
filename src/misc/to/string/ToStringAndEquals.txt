@@ -1,0 +1,5 @@
+ToString
+- By default, all object created in java get a reserved space in memory
+
+Equals
+- By default, the equal operation compares the memory address for objects

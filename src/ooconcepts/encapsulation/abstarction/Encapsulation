@@ -1,0 +1,7 @@
+Encapsulation
+- a class that has all the attribute and methods needed to create an object of that class
+- re-usability, flexibility and data hiding
+
+Abstraction
+- use methods/class without knowing it's implementation
+- don't care about the implementation, just the interaction
